@@ -1,0 +1,722 @@
+[
+  {
+    "id": "c1",
+    "name": "Aurora Works 1",
+    "location": "Noida, India",
+    "industry": "Media",
+    "employees": 887,
+    "website": "https://auroraworks1.example",
+    "description": "Aurora Works 1 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c2",
+    "name": "BlueWave Dynamics 2",
+    "location": "Delhi, India",
+    "industry": "Fintech",
+    "employees": 470,
+    "website": "https://bluewavedynamics2.example",
+    "description": "BlueWave Dynamics 2 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c3",
+    "name": "Halo Labs 3",
+    "location": "Kolkata, India",
+    "industry": "Education",
+    "employees": 265,
+    "website": "https://halolabs3.example",
+    "description": "Halo Labs 3 is a leading company in Media offering modern solutions."
+  },
+  {
+    "id": "c4",
+    "name": "Apex Labs 4",
+    "location": "Kolkata, India",
+    "industry": "AI",
+    "employees": 970,
+    "website": "https://apexlabs4.example",
+    "description": "Apex Labs 4 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c5",
+    "name": "Ecliptic Networks 5",
+    "location": "Noida, India",
+    "industry": "Analytics",
+    "employees": 942,
+    "website": "https://eclipticnetworks5.example",
+    "description": "Ecliptic Networks 5 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c6",
+    "name": "BlueWave Tech 6",
+    "location": "Hyderabad, India",
+    "industry": "Media",
+    "employees": 745,
+    "website": "https://bluewavetech6.example",
+    "description": "BlueWave Tech 6 is a leading company in Media offering modern solutions."
+  },
+  {
+    "id": "c7",
+    "name": "Falcon Studios 7",
+    "location": "Noida, India",
+    "industry": "Security",
+    "employees": 295,
+    "website": "https://falconstudios7.example",
+    "description": "Falcon Studios 7 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c8",
+    "name": "Dynamo Studios 8",
+    "location": "Mumbai, India",
+    "industry": "Fintech",
+    "employees": 187,
+    "website": "https://dynamostudios8.example",
+    "description": "Dynamo Studios 8 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c9",
+    "name": "Orion Systems 9",
+    "location": "Kolkata, India",
+    "industry": "Logistics",
+    "employees": 859,
+    "website": "https://orionsystems9.example",
+    "description": "Orion Systems 9 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c10",
+    "name": "Lumen Holdings 10",
+    "location": "Kolkata, India",
+    "industry": "Retail",
+    "employees": 426,
+    "website": "https://lumenholdings10.example",
+    "description": "Lumen Holdings 10 is a leading company in Media offering modern solutions."
+  },
+  {
+    "id": "c11",
+    "name": "Halo Studios 11",
+    "location": "Kolkata, India",
+    "industry": "Media",
+    "employees": 539,
+    "website": "https://halostudios11.example",
+    "description": "Halo Studios 11 is a leading company in AI offering modern solutions."
+  },
+  {
+    "id": "c12",
+    "name": "Jupiter Dynamics 12",
+    "location": "Delhi, India",
+    "industry": "Energy",
+    "employees": 196,
+    "website": "https://jupiterdynamics12.example",
+    "description": "Jupiter Dynamics 12 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c13",
+    "name": "Lumen Analytics 13",
+    "location": "Mumbai, India",
+    "industry": "Retail",
+    "employees": 575,
+    "website": "https://lumenanalytics13.example",
+    "description": "Lumen Analytics 13 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c14",
+    "name": "GreenGrid Labs 14",
+    "location": "Kolkata, India",
+    "industry": "Fintech",
+    "employees": 175,
+    "website": "https://greengridlabs14.example",
+    "description": "GreenGrid Labs 14 is a leading company in Analytics offering modern solutions."
+  },
+  {
+    "id": "c15",
+    "name": "Vertex Solutions 15",
+    "location": "Pune, India",
+    "industry": "Security",
+    "employees": 627,
+    "website": "https://vertexsolutions15.example",
+    "description": "Vertex Solutions 15 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c16",
+    "name": "Nimbus Dynamics 16",
+    "location": "Kolkata, India",
+    "industry": "SaaS",
+    "employees": 277,
+    "website": "https://nimbusdynamics16.example",
+    "description": "Nimbus Dynamics 16 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c17",
+    "name": "Falcon Studios 17",
+    "location": "Bengaluru, India",
+    "industry": "AI",
+    "employees": 979,
+    "website": "https://falconstudios17.example",
+    "description": "Falcon Studios 17 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c18",
+    "name": "Quantum Systems 18",
+    "location": "Mumbai, India",
+    "industry": "SaaS",
+    "employees": 553,
+    "website": "https://quantumsystems18.example",
+    "description": "Quantum Systems 18 is a leading company in Analytics offering modern solutions."
+  },
+  {
+    "id": "c19",
+    "name": "Dynamo Networks 19",
+    "location": "Kolkata, India",
+    "industry": "Fintech",
+    "employees": 1088,
+    "website": "https://dynamonetworks19.example",
+    "description": "Dynamo Networks 19 is a leading company in Health offering modern solutions."
+  },
+  {
+    "id": "c20",
+    "name": "Halo Analytics 20",
+    "location": "Chennai, India",
+    "industry": "AI",
+    "employees": 955,
+    "website": "https://haloanalytics20.example",
+    "description": "Halo Analytics 20 is a leading company in AI offering modern solutions."
+  },
+  {
+    "id": "c21",
+    "name": "Vertex Works 21",
+    "location": "Chennai, India",
+    "industry": "Education",
+    "employees": 712,
+    "website": "https://vertexworks21.example",
+    "description": "Vertex Works 21 is a leading company in Energy offering modern solutions."
+  },
+  {
+    "id": "c22",
+    "name": "Quantum Tech 22",
+    "location": "Noida, India",
+    "industry": "Security",
+    "employees": 763,
+    "website": "https://quantumtech22.example",
+    "description": "Quantum Tech 22 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c23",
+    "name": "Kite Works 23",
+    "location": "Chennai, India",
+    "industry": "Logistics",
+    "employees": 210,
+    "website": "https://kiteworks23.example",
+    "description": "Kite Works 23 is a leading company in Security offering modern solutions."
+  },
+  {
+    "id": "c24",
+    "name": "Halo Holdings 24",
+    "location": "Kolkata, India",
+    "industry": "Media",
+    "employees": 568,
+    "website": "https://haloholdings24.example",
+    "description": "Halo Holdings 24 is a leading company in Health offering modern solutions."
+  },
+  {
+    "id": "c25",
+    "name": "Dynamo Studios 25",
+    "location": "Hyderabad, India",
+    "industry": "Retail",
+    "employees": 173,
+    "website": "https://dynamostudios25.example",
+    "description": "Dynamo Studios 25 is a leading company in Security offering modern solutions."
+  },
+  {
+    "id": "c26",
+    "name": "Ecliptic Works 26",
+    "location": "Kolkata, India",
+    "industry": "Media",
+    "employees": 922,
+    "website": "https://eclipticworks26.example",
+    "description": "Ecliptic Works 26 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c27",
+    "name": "Jupiter Solutions 27",
+    "location": "Noida, India",
+    "industry": "Health",
+    "employees": 64,
+    "website": "https://jupitersolutions27.example",
+    "description": "Jupiter Solutions 27 is a leading company in Analytics offering modern solutions."
+  },
+  {
+    "id": "c28",
+    "name": "Catalyst Dynamics 28",
+    "location": "Kolkata, India",
+    "industry": "SaaS",
+    "employees": 874,
+    "website": "https://catalystdynamics28.example",
+    "description": "Catalyst Dynamics 28 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c29",
+    "name": "Vertex Holdings 29",
+    "location": "Bengaluru, India",
+    "industry": "Fintech",
+    "employees": 207,
+    "website": "https://vertexholdings29.example",
+    "description": "Vertex Holdings 29 is a leading company in Security offering modern solutions."
+  },
+  {
+    "id": "c30",
+    "name": "Orion Systems 30",
+    "location": "Chennai, India",
+    "industry": "Analytics",
+    "employees": 967,
+    "website": "https://orionsystems30.example",
+    "description": "Orion Systems 30 is a leading company in Energy offering modern solutions."
+  },
+  {
+    "id": "c31",
+    "name": "Halo Networks 31",
+    "location": "Kolkata, India",
+    "industry": "Health",
+    "employees": 424,
+    "website": "https://halonetworks31.example",
+    "description": "Halo Networks 31 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c32",
+    "name": "Aurora Tech 32",
+    "location": "Kolkata, India",
+    "industry": "AI",
+    "employees": 533,
+    "website": "https://auroratech32.example",
+    "description": "Aurora Tech 32 is a leading company in Analytics offering modern solutions."
+  },
+  {
+    "id": "c33",
+    "name": "Jupiter Solutions 33",
+    "location": "Bengaluru, India",
+    "industry": "Security",
+    "employees": 196,
+    "website": "https://jupitersolutions33.example",
+    "description": "Jupiter Solutions 33 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c34",
+    "name": "Nimbus Networks 34",
+    "location": "Hyderabad, India",
+    "industry": "SaaS",
+    "employees": 79,
+    "website": "https://nimbusnetworks34.example",
+    "description": "Nimbus Networks 34 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c35",
+    "name": "Orion Works 35",
+    "location": "Delhi, India",
+    "industry": "Security",
+    "employees": 1028,
+    "website": "https://orionworks35.example",
+    "description": "Orion Works 35 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c36",
+    "name": "Jupiter Studios 36",
+    "location": "Mumbai, India",
+    "industry": "Health",
+    "employees": 1084,
+    "website": "https://jupiterstudios36.example",
+    "description": "Jupiter Studios 36 is a leading company in Security offering modern solutions."
+  },
+  {
+    "id": "c37",
+    "name": "Falcon Networks 37",
+    "location": "Kolkata, India",
+    "industry": "AI",
+    "employees": 1129,
+    "website": "https://falconnetworks37.example",
+    "description": "Falcon Networks 37 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c38",
+    "name": "Lumen Tech 38",
+    "location": "Delhi, India",
+    "industry": "SaaS",
+    "employees": 932,
+    "website": "https://lumentech38.example",
+    "description": "Lumen Tech 38 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c39",
+    "name": "Orion Works 39",
+    "location": "Mumbai, India",
+    "industry": "Energy",
+    "employees": 720,
+    "website": "https://orionworks39.example",
+    "description": "Orion Works 39 is a leading company in AI offering modern solutions."
+  },
+  {
+    "id": "c40",
+    "name": "Aurora Networks 40",
+    "location": "Delhi, India",
+    "industry": "Fintech",
+    "employees": 75,
+    "website": "https://auroranetworks40.example",
+    "description": "Aurora Networks 40 is a leading company in Health offering modern solutions."
+  },
+  {
+    "id": "c41",
+    "name": "Vertex Tech 41",
+    "location": "Noida, India",
+    "industry": "Energy",
+    "employees": 186,
+    "website": "https://vertextech41.example",
+    "description": "Vertex Tech 41 is a leading company in Energy offering modern solutions."
+  },
+  {
+    "id": "c42",
+    "name": "BlueWave Systems 42",
+    "location": "Chennai, India",
+    "industry": "Retail",
+    "employees": 167,
+    "website": "https://bluewavesystems42.example",
+    "description": "BlueWave Systems 42 is a leading company in Analytics offering modern solutions."
+  },
+  {
+    "id": "c43",
+    "name": "BlueWave Dynamics 43",
+    "location": "Pune, India",
+    "industry": "Security",
+    "employees": 57,
+    "website": "https://bluewavedynamics43.example",
+    "description": "BlueWave Dynamics 43 is a leading company in AI offering modern solutions."
+  },
+  {
+    "id": "c44",
+    "name": "Aurora Holdings 44",
+    "location": "Chennai, India",
+    "industry": "AI",
+    "employees": 889,
+    "website": "https://auroraholdings44.example",
+    "description": "Aurora Holdings 44 is a leading company in AI offering modern solutions."
+  },
+  {
+    "id": "c45",
+    "name": "Dynamo Studios 45",
+    "location": "Noida, India",
+    "industry": "Fintech",
+    "employees": 929,
+    "website": "https://dynamostudios45.example",
+    "description": "Dynamo Studios 45 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c46",
+    "name": "Nova Labs 46",
+    "location": "Mumbai, India",
+    "industry": "Security",
+    "employees": 1165,
+    "website": "https://novalabs46.example",
+    "description": "Nova Labs 46 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c47",
+    "name": "Nova Analytics 47",
+    "location": "Bengaluru, India",
+    "industry": "Retail",
+    "employees": 822,
+    "website": "https://novaanalytics47.example",
+    "description": "Nova Analytics 47 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c48",
+    "name": "Ecliptic Systems 48",
+    "location": "Pune, India",
+    "industry": "AI",
+    "employees": 825,
+    "website": "https://eclipticsystems48.example",
+    "description": "Ecliptic Systems 48 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c49",
+    "name": "Aurora Works 49",
+    "location": "Kolkata, India",
+    "industry": "Logistics",
+    "employees": 66,
+    "website": "https://auroraworks49.example",
+    "description": "Aurora Works 49 is a leading company in Energy offering modern solutions."
+  },
+  {
+    "id": "c50",
+    "name": "Nova Solutions 50",
+    "location": "Mumbai, India",
+    "industry": "Retail",
+    "employees": 118,
+    "website": "https://novasolutions50.example",
+    "description": "Nova Solutions 50 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c51",
+    "name": "Nova Studios 51",
+    "location": "Pune, India",
+    "industry": "Analytics",
+    "employees": 346,
+    "website": "https://novastudios51.example",
+    "description": "Nova Studios 51 is a leading company in AI offering modern solutions."
+  },
+  {
+    "id": "c52",
+    "name": "Ecliptic Dynamics 52",
+    "location": "Noida, India",
+    "industry": "Health",
+    "employees": 917,
+    "website": "https://eclipticdynamics52.example",
+    "description": "Ecliptic Dynamics 52 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c53",
+    "name": "Ecliptic Tech 53",
+    "location": "Pune, India",
+    "industry": "Retail",
+    "employees": 1182,
+    "website": "https://ecliptictech53.example",
+    "description": "Ecliptic Tech 53 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c54",
+    "name": "Nova Systems 54",
+    "location": "Kolkata, India",
+    "industry": "Fintech",
+    "employees": 1058,
+    "website": "https://novasystems54.example",
+    "description": "Nova Systems 54 is a leading company in Health offering modern solutions."
+  },
+  {
+    "id": "c55",
+    "name": "Catalyst Works 55",
+    "location": "Bengaluru, India",
+    "industry": "SaaS",
+    "employees": 99,
+    "website": "https://catalystworks55.example",
+    "description": "Catalyst Works 55 is a leading company in Analytics offering modern solutions."
+  },
+  {
+    "id": "c56",
+    "name": "Halo Analytics 56",
+    "location": "Kolkata, India",
+    "industry": "Education",
+    "employees": 505,
+    "website": "https://haloanalytics56.example",
+    "description": "Halo Analytics 56 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c57",
+    "name": "Monarch Analytics 57",
+    "location": "Hyderabad, India",
+    "industry": "Security",
+    "employees": 381,
+    "website": "https://monarchanalytics57.example",
+    "description": "Monarch Analytics 57 is a leading company in Media offering modern solutions."
+  },
+  {
+    "id": "c58",
+    "name": "Apex Tech 58",
+    "location": "Pune, India",
+    "industry": "SaaS",
+    "employees": 823,
+    "website": "https://apextech58.example",
+    "description": "Apex Tech 58 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c59",
+    "name": "Dynamo Tech 59",
+    "location": "Hyderabad, India",
+    "industry": "Logistics",
+    "employees": 665,
+    "website": "https://dynamotech59.example",
+    "description": "Dynamo Tech 59 is a leading company in Analytics offering modern solutions."
+  },
+  {
+    "id": "c60",
+    "name": "Halo Labs 60",
+    "location": "Bengaluru, India",
+    "industry": "Analytics",
+    "employees": 311,
+    "website": "https://halolabs60.example",
+    "description": "Halo Labs 60 is a leading company in Media offering modern solutions."
+  },
+  {
+    "id": "c61",
+    "name": "BlueWave Dynamics 61",
+    "location": "Bengaluru, India",
+    "industry": "SaaS",
+    "employees": 768,
+    "website": "https://bluewavedynamics61.example",
+    "description": "BlueWave Dynamics 61 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c62",
+    "name": "BlueWave Networks 62",
+    "location": "Noida, India",
+    "industry": "Analytics",
+    "employees": 331,
+    "website": "https://bluewavenetworks62.example",
+    "description": "BlueWave Networks 62 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c63",
+    "name": "Ecliptic Systems 63",
+    "location": "Pune, India",
+    "industry": "Education",
+    "employees": 673,
+    "website": "https://eclipticsystems63.example",
+    "description": "Ecliptic Systems 63 is a leading company in Energy offering modern solutions."
+  },
+  {
+    "id": "c64",
+    "name": "BlueWave Analytics 64",
+    "location": "Bengaluru, India",
+    "industry": "Retail",
+    "employees": 516,
+    "website": "https://bluewaveanalytics64.example",
+    "description": "BlueWave Analytics 64 is a leading company in AI offering modern solutions."
+  },
+  {
+    "id": "c65",
+    "name": "Quantum Tech 65",
+    "location": "Kolkata, India",
+    "industry": "Health",
+    "employees": 776,
+    "website": "https://quantumtech65.example",
+    "description": "Quantum Tech 65 is a leading company in Energy offering modern solutions."
+  },
+  {
+    "id": "c66",
+    "name": "Apex Analytics 66",
+    "location": "Mumbai, India",
+    "industry": "Retail",
+    "employees": 826,
+    "website": "https://apexanalytics66.example",
+    "description": "Apex Analytics 66 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c67",
+    "name": "Vertex Networks 67",
+    "location": "Kolkata, India",
+    "industry": "Energy",
+    "employees": 963,
+    "website": "https://vertexnetworks67.example",
+    "description": "Vertex Networks 67 is a leading company in Education offering modern solutions."
+  },
+  {
+    "id": "c68",
+    "name": "Halo Networks 68",
+    "location": "Kolkata, India",
+    "industry": "AI",
+    "employees": 1004,
+    "website": "https://halonetworks68.example",
+    "description": "Halo Networks 68 is a leading company in Retail offering modern solutions."
+  },
+  {
+    "id": "c69",
+    "name": "Ecliptic Works 69",
+    "location": "Kolkata, India",
+    "industry": "Health",
+    "employees": 566,
+    "website": "https://eclipticworks69.example",
+    "description": "Ecliptic Works 69 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c70",
+    "name": "Quantum Studios 70",
+    "location": "Bengaluru, India",
+    "industry": "Education",
+    "employees": 1139,
+    "website": "https://quantumstudios70.example",
+    "description": "Quantum Studios 70 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c71",
+    "name": "Lumen Holdings 71",
+    "location": "Noida, India",
+    "industry": "Logistics",
+    "employees": 1196,
+    "website": "https://lumenholdings71.example",
+    "description": "Lumen Holdings 71 is a leading company in Security offering modern solutions."
+  },
+  {
+    "id": "c72",
+    "name": "Nimbus Solutions 72",
+    "location": "Bengaluru, India",
+    "industry": "Education",
+    "employees": 673,
+    "website": "https://nimbussolutions72.example",
+    "description": "Nimbus Solutions 72 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c73",
+    "name": "Monarch Works 73",
+    "location": "Hyderabad, India",
+    "industry": "Education",
+    "employees": 347,
+    "website": "https://monarchworks73.example",
+    "description": "Monarch Works 73 is a leading company in Media offering modern solutions."
+  },
+  {
+    "id": "c74",
+    "name": "Ecliptic Holdings 74",
+    "location": "Pune, India",
+    "industry": "Security",
+    "employees": 842,
+    "website": "https://eclipticholdings74.example",
+    "description": "Ecliptic Holdings 74 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c75",
+    "name": "Jupiter Solutions 75",
+    "location": "Kolkata, India",
+    "industry": "Media",
+    "employees": 961,
+    "website": "https://jupitersolutions75.example",
+    "description": "Jupiter Solutions 75 is a leading company in Fintech offering modern solutions."
+  },
+  {
+    "id": "c76",
+    "name": "GreenGrid Holdings 76",
+    "location": "Mumbai, India",
+    "industry": "Logistics",
+    "employees": 492,
+    "website": "https://greengridholdings76.example",
+    "description": "GreenGrid Holdings 76 is a leading company in Health offering modern solutions."
+  },
+  {
+    "id": "c77",
+    "name": "Falcon Networks 77",
+    "location": "Chennai, India",
+    "industry": "Fintech",
+    "employees": 1114,
+    "website": "https://falconnetworks77.example",
+    "description": "Falcon Networks 77 is a leading company in SaaS offering modern solutions."
+  },
+  {
+    "id": "c78",
+    "name": "Iris Solutions 78",
+    "location": "Bengaluru, India",
+    "industry": "Security",
+    "employees": 1007,
+    "website": "https://irissolutions78.example",
+    "description": "Iris Solutions 78 is a leading company in Energy offering modern solutions."
+  },
+  {
+    "id": "c79",
+    "name": "Dynamo Dynamics 79",
+    "location": "Kolkata, India",
+    "industry": "Analytics",
+    "employees": 230,
+    "website": "https://dynamodynamics79.example",
+    "description": "Dynamo Dynamics 79 is a leading company in Logistics offering modern solutions."
+  },
+  {
+    "id": "c80",
+    "name": "Quantum Dynamics 80",
+    "location": "Delhi, India",
+    "industry": "Media",
+    "employees": 468,
+    "website": "https://quantumdynamics80.example",
+    "description": "Quantum Dynamics 80 is a leading company in Logistics offering modern solutions."
+  }
+]
