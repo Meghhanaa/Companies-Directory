@@ -6,7 +6,7 @@ export default function App(){
   return (
     <div className="min-h-screen">
       <Tobar>
-        <div className="text-xs text-slate-500">React + Vite • Tailwind</div>
+        <div className="text-xs text-slate-500">Created By MEGHANA</div>
       </Tobar>
       <main className="py-6">
         <Home />

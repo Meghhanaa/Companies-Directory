@@ -6,7 +6,7 @@ export default function Tobar({ children }) {
       <div className="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row items-center justify-between">
         <div>
           <h1 className="text-xl font-semibold text-sky-200">🌐 Companies Directory</h1>
-          <p className="text-xs text-slate-300">Beautiful UI • Infinite Scroll • Filters</p>
+          <p className="text-xs text-slate-300">Smart Companies Directory – Find the Right Company Instantly</p>
         </div>
         <div className="mt-2 sm:mt-0">{children}</div>
       </div>
